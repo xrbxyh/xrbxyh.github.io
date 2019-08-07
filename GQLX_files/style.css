@@ -5,6 +5,12 @@
  * Copyright 2011-2017 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+.university-brand {
+  height:60px;
+  margin:15px;
+}
+
 @media print {
   *,
   *::before,
